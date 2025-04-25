@@ -31,6 +31,8 @@ You will need:
 - `datasets`
 - `scikit-learn`
 - `torch`
+- `sentence-transformers`
+- `tabulate`
 - `matplotlib` (optional, for plotting)
 
 You can install all dependencies with:
