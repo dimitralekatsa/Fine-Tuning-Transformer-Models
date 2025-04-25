@@ -1,6 +1,7 @@
 # Fine-Tuning Transformers for Text Classification
 
 This repository contains a Jupyter Notebook that demonstrates how to fine-tune pretrained transformer models using the Hugging Face `transformers` library, focusing on the task of text classification. The main example revolves around sentiment analysis using the Yelp Polarity dataset.
+
 This project was developed as an introductory lab exercise of the **Neural Networks and Deep Learning** class for understanding:
 - Transfer learning in NLP
 - Hands-on fine-tuning of large language models for specific downstream tasks
