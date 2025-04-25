@@ -1,0 +1,15 @@
+﻿name: transformers-nlp
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - torch
+      - transformers[torch]
+      - datasets
+      - scikit-learn
+      - matplotlib
+      - tabulate
+      - sentence-transformers
